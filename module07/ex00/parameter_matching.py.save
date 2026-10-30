@@ -1,9 +1,0 @@
-#!/opt/pyenv/shims/python
-
-import sys
-
-user_input = string(sys.argv[1])
-
-if len(sys.argv) != 1:
-	print("none")
-
